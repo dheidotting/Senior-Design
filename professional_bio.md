@@ -1,5 +1,4 @@
 # Professional Biography
-
 ## Contact Information
 Email : heidotda@mail.uc.edu
 
