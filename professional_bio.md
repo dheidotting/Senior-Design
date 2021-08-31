@@ -1,6 +1,6 @@
 # Professional Biography
 ## Contact Information
-Email : heidotda@mail.uc.edu
+* Email : heidotda@mail.uc.edu
 
 ## Co-op Work Experience
 * Computer Science Co-op, SHP Leading Design, January 2020 - August 2021
@@ -12,3 +12,6 @@ and machine learning in attempt to bring the architecture industry up to speed w
   * Collaborated with Enterprise Architecture team to update metrics and data
   * Gained understanding of the role and tasks of an Enterprise Architect
   * Developed professional skills such as teamwork, taking initiative and planning
+
+## Project Sought
+* I have already been placed on an existing project. I was handed down the opportunity to continue building the Bearcat Pantry Stocker Application, a previous senior design project that is unfinished. This will be a web app. I was interested in doing a web development project and this was the perfect opportunity.
